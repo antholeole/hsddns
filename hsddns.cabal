@@ -59,6 +59,9 @@ common shared
     , shower
     , time
     , with-utf8
+    , bluefin
+
+    
 
   hs-source-dirs:     src
   default-language:   GHC2021

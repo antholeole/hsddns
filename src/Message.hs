@@ -1,6 +1,8 @@
 module Message where
 
 import Data.Text as T
+import Bluefin.IO
+
 
 stuff :: T.Text -> T.Text
 stuff = \case
