@@ -1,5 +1,3 @@
-# Git pre-commit hooks are defined here.
-
 { inputs, ... }:
 {
   imports = [
